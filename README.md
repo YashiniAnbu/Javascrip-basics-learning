@@ -1,4 +1,4 @@
-# JavaScript Conditional Logic Demo
+# JavaScript Conditional Logic
 
 This repository demonstrates basic **JavaScript conditional statements** using two simple examples:
 1. A Calculator using operators
